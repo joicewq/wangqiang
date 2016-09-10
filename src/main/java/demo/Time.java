@@ -1,12 +1,12 @@
 package demo;
 
 
+
 import java.util.Scanner;
 
 public class Time {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub00
 		String starOrend = printIn();
 		String[] time = starOrend.split(":");
 		
